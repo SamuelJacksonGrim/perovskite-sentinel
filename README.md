@@ -1,5 +1,10 @@
 # Perovskite Sentinel — Dagaz Engine v0.1
 
+[![License: AGPL-3.0-only](https://img.shields.io/badge/license-AGPL--3.0--only-blue)](LICENSE)
+[![dual-license](https://img.shields.io/badge/dual--license-AGPL--3.0--only%20or%20commercial-blueviolet)](LICENSING.md)
+[![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white)](https://www.python.org)
+
+
 Live Grokipedia-style epistemic agent for perovskite solar cells.
 
 - harvest_echoes scraper pulls every new perovskite paper in real time  
